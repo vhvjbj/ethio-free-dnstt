@@ -1,0 +1,9 @@
+{
+  "Name": "Ethio Free DNSTT",
+  "TunnelType": "DNSTT",
+  "ServerIP": "104.21.31.201",
+  "NS": "://cloudflare.com",
+  "PublicKey": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+  "DNS": "1.1.1.1",
+  "Port": "53"
+}
