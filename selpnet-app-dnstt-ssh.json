@@ -1,0 +1,21 @@
+{
+  "Name": "SelpNet App",
+  "TunnelType": "DNSTT+SSH",
+  "DNSTT": {
+    "ServerIP": "103.145.45.67",
+    "NS": "ns1.selpnet.com",
+    "PublicKey": "abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+    "DNS": "8.8.8.8",
+    "Port": "53"
+  },
+  "SSH": {
+    "Host": "ssh.selpnet.com",
+    "Port": "22",
+    "Username": "selpnet_user",
+    "AuthType": "key",
+    "PrivateKeyPath": "/home/user/.ssh/id_rsa",
+    "RemotePort": "8022"
+  },
+  "Status": "Active",
+  "CreatedDate": "2026-08-29"
+}
